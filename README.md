@@ -1,2 +1,3 @@
-# code-of-duty
-SIH hackathon project
+# Code of Duty
+
+This is a project for the Smart India Hackathon (SIH).
